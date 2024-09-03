@@ -1,0 +1,1 @@
+# setup-junit-intellij
