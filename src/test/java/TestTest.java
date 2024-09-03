@@ -1,3 +1,4 @@
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 /*
@@ -5,11 +6,12 @@ import org.junit.jupiter.api.Test;
 */
 public class TestTest {
     @Test
+    @DisplayName("Add your testing msg")
     public void test(){
 
     }
     @Test
-    public void test1(){
+    public void test123(){
 
     }
 }
